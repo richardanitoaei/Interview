@@ -2,7 +2,7 @@
 
 This coursework will ask to write Java code to answer a number of coding interview style questions. Each question will ask to write a method that fulfils a given specification.
 
-# Single character edits [7 marks]
+# Single character edits
 
 There are three sorts of single character edit that can be made to a string:
 
@@ -22,7 +22,7 @@ To test your code, run the given class `TestSingleCharacterEdit`.  This will per
 
 
 
-# A screen as bytes [3 marks]
+# A screen as bytes
 
 Each pixel on a monochrome (black and white) screen can be represted as a bit -- either off (0) or on (1).  The whole screen can in turn be represented as an array of bytes, with each byte storing eight pixels (eight bits).  The first bytes in the array are the pixels at the left of the top row of the image; and the last bytes in the array are the pixels at the right of last row of the image.  For instance, the following image, 16 pixels wide and 3 pixels tall:
 
